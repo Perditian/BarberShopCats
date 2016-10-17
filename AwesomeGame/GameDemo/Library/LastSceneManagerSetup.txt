@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/FirstCat.unity
+  isLoaded: 1
+  isActive: 1

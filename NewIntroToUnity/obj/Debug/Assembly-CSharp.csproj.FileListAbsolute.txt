@@ -1,0 +1,48 @@
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEditor.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Mono.Cecil.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Unity.DataContract.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.xml
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEditor.xml
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Docs\UnityProjects\IntroToUnity\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\Docs\UnityProjects\IntroToUnity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Docs\UnityProjects\IntroToUnity\obj\Debug\Assembly-CSharp.dll
+F:\Docs\UnityProjects\IntroToUnity\obj\Debug\Assembly-CSharp.pdb
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEditor.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.xml
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEditor.xml
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\David Taus\Desktop\NewIntroToUnity\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\David Taus\Desktop\NewIntroToUnity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\David Taus\Desktop\NewIntroToUnity\obj\Debug\Assembly-CSharp.dll
+C:\Users\David Taus\Desktop\NewIntroToUnity\obj\Debug\Assembly-CSharp.pdb
